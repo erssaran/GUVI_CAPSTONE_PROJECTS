@@ -74,6 +74,7 @@ Overall, this approach involves building a simple UI with Streamlit, retrieving 
 
 
 
+Video_link: https://drive.google.com/file/d/13WFqvLGahfZn5M6pKaM6d6n9kTahhH95/view?usp=drive_link
 
 
 
