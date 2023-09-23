@@ -76,6 +76,8 @@ Overall, this approach involves building a simple UI with Streamlit, retrieving 
 
 Video_link: https://drive.google.com/file/d/13WFqvLGahfZn5M6pKaM6d6n9kTahhH95/view?usp=drive_link
 
+LinkedIN: https://www.linkedin.com/posts/saranya-s-7917a8272_datascience-streamlit-streamlit-activity-7111244859071500288-OjxG?utm_source=share&utm_medium=member_desktop
+
 
 
 
